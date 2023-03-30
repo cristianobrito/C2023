@@ -14,4 +14,4 @@ int main(int argc, char *argv[])
   return 0;
 }
 
-// gcc EX00_HelloWorld.c
+// gcc EX00_HelloWorld.c -o EX00_HelloWorld
